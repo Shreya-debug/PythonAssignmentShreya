@@ -1,0 +1,22 @@
+{
+    "abhijit": {
+        "name": "abhijit",
+        "dept": "d1",
+        "age": "38"
+    },
+    "akash": {
+        "name": "akash",
+        "dept": "d1",
+        "age": "40"
+    },
+    "sameer": {
+        "name": "sameer",
+        "dept": "d2",
+        "age": "39"
+    },
+    "prakash": {
+        "name": "prakash",
+        "dept": "d2",
+        "age": "43"
+    }
+}
